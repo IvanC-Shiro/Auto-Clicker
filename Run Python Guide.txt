@@ -1,0 +1,9 @@
+Go to the file you want to run directory
+
+exp: "C:\Users\ivanc\OneDrive\Documents\Programs\Workspace\src"
+
+highlight it
+
+then type "cmd"
+
+run your python file by: "python 'file name'"
